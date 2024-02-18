@@ -1,0 +1,7 @@
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Ej_personajesBelicos_Patron1\Ej_personajesBelicos_Patron1\bin\Debug\Ej_personajesBelicos_Patron1.exe.config
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Ej_personajesBelicos_Patron1\Ej_personajesBelicos_Patron1\bin\Debug\Ej_personajesBelicos_Patron1.exe
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Ej_personajesBelicos_Patron1\Ej_personajesBelicos_Patron1\bin\Debug\Ej_personajesBelicos_Patron1.pdb
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Ej_personajesBelicos_Patron1\Ej_personajesBelicos_Patron1\obj\Debug\Ej_personajesBelicos_Patron1.csproj.AssemblyReference.cache
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Ej_personajesBelicos_Patron1\Ej_personajesBelicos_Patron1\obj\Debug\Ej_personajesBelicos_Patron1.csproj.CoreCompileInputs.cache
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Ej_personajesBelicos_Patron1\Ej_personajesBelicos_Patron1\obj\Debug\Ej_personajesBelicos_Patron1.exe
+C:\Users\luisa\OneDrive\Documents\Patrones de diseño\Ej_personajesBelicos_Patron1\Ej_personajesBelicos_Patron1\obj\Debug\Ej_personajesBelicos_Patron1.pdb
